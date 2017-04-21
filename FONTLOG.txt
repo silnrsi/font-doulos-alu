@@ -1,0 +1,80 @@
+FONTLOG
+Doulos SIL ALU Font Sources
+===========================
+
+This file provides detailed information on the Doulos SIL ALU font files.
+This information should be distributed along with the SIL Doulos fonts and
+any derivative works.
+
+
+Basic Font Information
+----------------------
+These fonts are based on the SIL Doulos Font Sources and contain
+Unicode characters for codepage 1252 along with additional tone marks as
+used in Akha and Lahu. The styling of the tone marks conforms to the local
+language style for those languages.
+
+ChangeLog
+---------
+
+21 Apr 2017 (SIL NRSI team) Doulos SIL ALU original source creation
+- Release under OFL 1.1
+- Base on SIL Doulos Font Sources (details below)
+
+Acknowledgements
+----------------
+N: Martin Hosken
+E: fonts@sil.org
+W: http://scriptsource.org/
+D: SIL NRSI designers and font engineers
+
+
+
+The rest of this file contains the FONTLOG for the primary source files
+
+SIL Doulos Font Sources
+========================
+
+
+This file provides detailed information on the SIL Doulos font files.
+This information should be distributed along with the SIL Doulos fonts and
+any derivative works.
+
+
+Basic Font Information
+----------------------
+
+These fonts provide outline sources for all the glyphs in the complete SIL Doulos family in a universally readable format (PostScript Type 1), and under an open license (SIL Open Font License version 1.1). They are not intended to be installable fonts, and likely will not work correctly with some systems. But they provide full and complete outlines for these older fonts, some of which are not included in newer font packages.
+
+** Note that SIL Doulos fonts are is not the same as the Doulos SIL fonts. SIL Doulos is a much order, pre-Unicode package that is now obsolete.
+
+Although we do not plan any major revisions to this package, we may (or may not) fix major problems, and so we will remain as maintainers of this package.
+
+
+ChangeLog
+---------
+(This should list both major and minor changes, most recent first.)
+
+23 Jan 2008 (SIL NRSI team) SIL Doulos original source files
+- First version released under the SIL Open Font License
+- Used as sources for the SIL Encore Fonts, v. 3
+
+
+Acknowledgements
+----------------
+(Here is where contributors can be acknowledged. If you make modifications
+be sure to add your name (N), email (E), web-address (W) and description
+(D). This list is sorted by last name in alphabetical order.)
+
+N: Walt Agee, Victor Gaultney
+E: fonts@sil.org
+W: http://scripts.sil.org/
+D: SIL designers and font engineers
+
+The SIL Doulos project is maintained by SIL International.
+
+For more information please visit SIL International's
+Computers and Writing systems website:
+http://scripts.sil.org/
+
+Or send an email to <fonts AT sil DOT org>
