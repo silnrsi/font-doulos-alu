@@ -19,7 +19,7 @@ ChangeLog
 
 21 Apr 2017 (SIL NRSI team) Doulos SIL ALU original source creation
 - Release under OFL 1.1
-- Base on SIL Doulos Font Sources (details below)
+- Based on SIL Doulos Font Sources (details below)
 
 Acknowledgements
 ----------------
