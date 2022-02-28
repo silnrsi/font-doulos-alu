@@ -28,8 +28,6 @@ for n in ('r', 'i', 'b', 'bi') :
     f = font(target = process('Doulos-SIL-ALU-'+tmap[n]+'.ttf', cmd('../tools/cpglyphs ${DEP} ${SRC[0]} ${TGT}', [tonefont]), name('Doulos SIL ALU'),
                                                     cmd('hackos2 -u 43 -c 1 ${DEP} ${TGT}')),
             source = legacy('src/doulos_'+n+'.ttf', source = basefont + n + '.ttf', xml='source/akha_unicodecst.xml', noap=1),
-            copyright = "Copyright (c) 1994-2017, SIL International (http://www.sil.org/) with Reserved Font Names \"Doulos\" and \"SIL\"",
-            license = ofl("Doulos", "SIL"),
             version = VERSION,
             fret = fret(params='-r')
         )
